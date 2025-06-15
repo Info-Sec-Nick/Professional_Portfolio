@@ -1,5 +1,5 @@
 ---
-title: Nick's InfoSec Portfolio
+title: Cyber Security - Think like an attacker. Defend like a professional.
 layout: default
 ---
 
@@ -41,12 +41,10 @@ layout: default
     NetGear 24 Port Switch<br>
 </p>
 
-"Amateurs hack systems. Professionals secure them."
-
 </div>
 
 
 <footer class="site-footer">
-    <p>&copy; 2025 Nicks InfoSec Portfolio. - All rights reserved.</p>
     <p>Amateurs hack systems, professionals secure them.</p>
+    <p>&copy; 2025 Nicks InfoSec Portfolio. - All rights reserved.</p>
 </footer>
