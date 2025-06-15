@@ -52,3 +52,13 @@ a:hover {
   font-size: 18px;
   color: #2e2e2e;
 }
+
+.site-footer {
+  text-align: left;
+  padding: 1rem;
+  background-color: #e0f2f1;
+  color: #333;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  border-top: 1px solid #ccc;
+}

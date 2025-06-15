@@ -44,3 +44,9 @@ layout: default
 "Amateurs hack systems. Professionals secure them."
 
 </div>
+
+
+<footer class="site-footer">
+    <p>&copy; 2025 Nicks InfoSec Portfolio. - All rights reserved.</p>
+    <p>Amateurs hack systems, professionals secure them.</p>
+</footer>
