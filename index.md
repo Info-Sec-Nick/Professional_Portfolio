@@ -21,28 +21,25 @@ layout: default
 <p class="paragraph-heading">
     Skills
 </p>
-<ul>
-    <li>System hardening (Linux/Windows)</li>
-    <li>Frameworks (ISM,DSPF,PSPF,NIST)</li>
-    <li>Security Accreditation</li>
-</ul>
+<p>
+    System hardening (Linux/Windows)<br>
+    Frameworks (ISM,DSPF,PSPF,NIST)<br>
+    Security Accreditation<br>
+</p>
 
 <p class="paragraph-heading">
     Projects
 </p>
-<ul>
-    <li>Homelab</li>
-    <ul>
-        <li>Fortinet 50E firewall</li>
-        <li>MiniPC running Proxomox Environment</li>
-        <li>Pihole DNS</li>
-        <li>Windows Server AD</li>
-        <li>Jellyfin Media Server</li>
-        <li>NetGear NAS Device</li>
-        <li>NetGear 24 Port Switch</li>
-    </ul>
-    <li>System Hardening</li>
-</ul>
+<p>
+    Homelab<br>
+    Fortinet 50E firewall<br>
+    MiniPC running Proxomox Environment<br>
+    Pihole DNS<br>
+    Windows Server AD<br>
+    Jellyfin Media Server<br>
+    NetGear NAS Device<br>
+    NetGear 24 Port Switch<br>
+</p>
 
 "Amateurs hack systems. Professionals secure them."
 
