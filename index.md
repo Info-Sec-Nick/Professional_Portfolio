@@ -11,9 +11,11 @@ layout: default
     My Story
 </p>
 
-Join me on my journey from Tradie turned Cyber Security Professional.</p>
-Starting my career as a Fabricator/Welder seen me work across multiple industries including Transport, Mining, Civil and Defence.</p>
-After completing a Certificate IV in Cyber Security i worked as a Cyber Security Engineer in the Defence sector.</p>
+<p class="paragraph-body">
+    Join me on my journey from Tradie turned Cyber Security Professional.<br>
+    Starting my career as a Fabricator/Welder seen me work across multiple industries including Transport, Mining, Civil and Defence.<br>
+    After completing a Certificate IV in Cyber Security i worked as a Cyber Security Engineer in the Defence sector.
+</p>
 
 <p class="paragraph-heading">
     Skills

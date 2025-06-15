@@ -38,8 +38,14 @@ a:hover {
   border: 1px solid #d1d5db;
 }
 
-/* ========= Custom Paragraph Style ========= */
+/* ========= Custom Paragraph Heading Style ========= */
 .paragraph-heading {
   font-size: 20px;
    color: #1e3a8a;
+}
+
+/* ========= Custom Paragraph Body Style ========= */
+.paragraph-body {
+  font-size: 18px;
+  color: #2e2e2e;
 }
