@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: custom
+title: Professional Portfolio
 ---
 
 # Welcome
