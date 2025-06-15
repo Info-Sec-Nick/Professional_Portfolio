@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Professional Portfolio for Nick Kroepsch
+title: Professional Cyber Security
+       Portfolio for Nick Kroepsch
 ---
 
 # Welcome to my Cyber Security Portfolio
