@@ -10,6 +10,7 @@ body {
 /* ========= Heading Style ========= */
 h1, h2, h3 {
   color: #1e3a8a;
+  font-size: larger;
   margin-top: 2rem;
 }
 

@@ -1,4 +1,5 @@
 ---
+title: Nick's InfoSec Portfolio
 layout: default
 ---
 
