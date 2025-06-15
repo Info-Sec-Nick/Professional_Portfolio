@@ -1,8 +1,10 @@
 ---
-layout: custom
+layout: default
 title: Professional Portfolio
 ---
 
-# Welcome
+# Welcome to my Cyber Security Portfolio
 
-This is my cybersecurity portfolio. More coming soon!
+Join my on my journey from Tradie turned Cyber Security Professional. 
+
+"Amateurs hack systems. Professionals secure them."
