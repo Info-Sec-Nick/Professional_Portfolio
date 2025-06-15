@@ -5,23 +5,24 @@ layout: default
 <link rel="stlyesheet" href="/assets/css/style.css">
 
 <div class="container">
+<h1>Welcome to my Cyber Security Portfolio</h1>
 
-# Welcome to my Cyber Security Portfolio
+<p class="paragraph-heading">
+    Join me on my journey from Tradie turned Cyber Security Professional.</n>
+    Starting my career as a Fabricator/Welder seen me work across multiple industries including Transport, Mining, Civil and Defence.</n>
+    After completing a Certificate IV in Cyber Security i worked as a Cyber Security Engineer in the Defence sector.</n>
+</p>
 
-Join me on my journey from Tradie turned Cyber Security Professional. 
-Starting my career as a Fabricator/Welder seen me work across multiple industries including Transport, Mining, Civil and Defence. 
-After completing a Certificate IV in Cyber Security i worked as a Cyber Security Engineer in the Defence sector.
 
-
-## Skills
+Skills
 
 - System hardening (Linux/Windows)
 - Frameworks (ISM,DSPF,PSPF,NIST)
 - Security Accreditation
 
-## Projects
+Projects
 
-- **Homelab** 
+Homelab 
 Fortinet 50E firewall
 MiniPC running Proxomox Environment
 Pihole DNS
