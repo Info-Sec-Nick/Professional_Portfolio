@@ -18,23 +18,28 @@ After completing a Certificate IV in Cyber Security i worked as a Cyber Security
 <p class="paragraph-heading">
     Skills
 </p>
-
-System hardening (Linux/Windows)</p>
-Frameworks (ISM,DSPF,PSPF,NIST)</p>
-Security Accreditation</p>
+<ul>
+    <li>System hardening (Linux/Windows)</li>
+    <li>Frameworks (ISM,DSPF,PSPF,NIST)</li>
+    <li>Security Accreditation</li>
+</ul>
 
 <p class="paragraph-heading">
     Projects
 </p>
-
-Homelab</p>
-Fortinet 50E firewall</p>
-MiniPC running Proxomox Environment</p>
-Pihole DNS</p>
-Windows Server AD</p>
-Jellyfin Media Server</p>
-NetGear NAS Device</p>
-NetGear 24 Port Switch</p>
+<ul>
+    <li>Homelab</li>
+    <ul>
+        <li>Fortinet 50E firewall</li>
+        <li>MiniPC running Proxomox Environment</li>
+        <li>Pihole DNS</li>
+        <li>Windows Server AD</li>
+        <li>Jellyfin Media Server</li>
+        <li>NetGear NAS Device</li>
+        <li>NetGear 24 Port Switch</li>
+    </ul>
+    <li>System Hardening</li>
+</ul>
 
 "Amateurs hack systems. Professionals secure them."
 
